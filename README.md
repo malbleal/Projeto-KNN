@@ -55,36 +55,36 @@ Tendo isso em vista, o melhor K para essa situação é k=3, pois minimiza os 
 
 Daniel.
 ---------------------------
-# Quando k = 2:
-# Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 agressivos, ele acertou a classificação de 38 (95% de precisão)
+. Quando k = 2:
+. Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 agressivos, ele acertou a classificação de 38 (95% de precisão)
 
-# Quando k = 3:
-# Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 agressivos, ele acertou a classificação de 36 (90% de precisão)
-# TOTAL: acerta a classificação de 96,66%. k=3 é o melhor cenário verificado.
+. Quando k = 3:
+. Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 agressivos, ele acertou a classificação de 36 (90% de precisão)
+. TOTAL: acerta a classificação de 96,66%. k=3 é o melhor cenário verificado.
 
-# Quando k = 4:
-# Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 agressivos, ele acertou a classificação de 33 (82,50% de precisão)
+. Quando k = 4:
+. Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 agressivos, ele acertou a classificação de 33 (82,50% de precisão)
 
-# Quando k = 5:
-# Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 agressivos, ele acertou a classificação de 30 (75% de precisão)
+. Quando k = 5:
+. Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 agressivos, ele acertou a classificação de 30 (75% de precisão)
 
-# Quando k = 6:
-# Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 agressivos, ele acertou a classificação de 27 (67,50% de precisão)
+. Quando k = 6:
+. Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 agressivos, ele acertou a classificação de 27 (67,50% de precisão)
 
 
-# Quando k = 7:
-# Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
-# Dos 40 agressivos, ele acertou a classificação de 26 (65% de precisão)
+. Quando k = 7:
+. Dos 40 conservadores, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 moderados, ele acertou a classificação de todos (100% de precisão)
+. Dos 40 agressivos, ele acertou a classificação de 26 (65% de precisão)
 
 ---------------------------
